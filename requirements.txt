@@ -1,4 +1,4 @@
-jobspy==0.4.3
+jobspy==0.31.0
 openai
 requests
 python-telegram-bot==21.3
