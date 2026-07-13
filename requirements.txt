@@ -1,0 +1,7 @@
+jobspy==0.4.3
+openai
+requests
+python-telegram-bot==21.3
+schedule
+python-dotenv
+pandas
